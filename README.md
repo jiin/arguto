@@ -1,6 +1,6 @@
 # Arguto.js
 
-![Oh rly](http://4.bp.blogspot.com/-F48BQn1wEJs/TfXum59GPwI/AAAAAAAAAX8/8_iFn6oQK28/s1600/Yarly.jpg)
+![Oh rly](http://codinggeekette.com/wp-content/uploads/2011/03/ORLY.jpg)
 
 ## Installation
 
