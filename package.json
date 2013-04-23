@@ -1,0 +1,20 @@
+{
+  "name": "arguto.js",
+  "version": "0.1.0",
+  "author": "jiin",
+  "description": "nodejs arguments parser",
+  "scripts": {
+    "test": "node ./test/test.js --first=foo --second=1 --third=true --fourth=bar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiin/arguto.git"
+  },
+  "devDependencies": {
+    "vows" : "0.7.0"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
