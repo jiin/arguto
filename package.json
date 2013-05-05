@@ -1,5 +1,5 @@
 {
-  "name": "arguto.js",
+  "name": "arguto",
   "version": "0.1.0",
   "author": "jiin",
   "description": "nodejs arguments parser",
