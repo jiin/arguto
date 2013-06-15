@@ -8,7 +8,7 @@
 
 Install this version via git: 
 ```bash
-npm install https://github.com/jiin/arguto.git
+npm install arguto
 ```
 
 And use in your node source:
